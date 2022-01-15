@@ -1,8 +1,9 @@
-// Day 1 : Creadting Character Card;
+// Day 1 : Creadting Character Card
 
-// This script is NOT used commercial;
-// I have studied via 코딩쉐프's videos on the Youtube;
-// I used some images from Google;
+// This script is NOT used commercial
+// I have studied via 코딩쉐프's videos on the Youtube
+// I used some images from Google
+// Some annotations include Korean
 
 import 'package:flutter/material.dart';
 
