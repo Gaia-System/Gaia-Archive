@@ -99,7 +99,7 @@ quit_btn.place(x = 425, y = 300)
 edit_btn = Button(gui, width = 15, text = "Edit", command = edit)
 edit_btn.place(x = 175, y = 300)
 
-sign_label = Label(gui, text = "© Created by Sung. 2021")
+sign_label = Label(gui, text = "Created by Gaia-Archive. 2021")
 sign_label.place(x = 470, y = 450)
 
 gui.mainloop()
