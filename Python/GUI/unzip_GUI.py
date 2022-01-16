@@ -1,5 +1,5 @@
 # This GUI can read only English.
-# I'll try to edit it that will read every language and alphabets.
+# I'll try to edit it that will read every languages and alphabets.
 
 import zipfile as zip
 import os
