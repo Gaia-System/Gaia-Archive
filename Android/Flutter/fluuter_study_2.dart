@@ -40,7 +40,7 @@ class MyPage extends StatelessWidget {
                 style: TextButton.styleFrom(backgroundColor: Colors.red),
                 onPressed: () {
                   Scaffold.of(ctx).showSnackBar(SnackBar(content: Text('Hello')));
-                    // Actually, the showSnackBar had been deprecated, but I can't find the alternative methods.
+                    // Actually, the showSnackBar had been deprecated, but I can't find the alternative methods. So I'll search other good ways.
                     // The context should be named ctx cuz ctx is used as context of Builder widget.
                     // Scaffold.of(context) will return and find the nearst Scaffold widget with its context.
                     // Maybe the script will make an error that "Scaffold.of() called with a context that does not contain a Scaffold.", if didn't use Builder widget.
